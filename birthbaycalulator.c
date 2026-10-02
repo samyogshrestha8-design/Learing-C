@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<time.h>
 int main(){
     int year = 0;
     printf("Enter the year you were born in :");
